@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
 
-## About Us
-
-A community that has come together to maintain and develop hacker culture.
+## A community that has come together to maintain and develop hacker culture.
 
