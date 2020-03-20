@@ -3,17 +3,14 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            HackerZ World
-tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
-baseurl:          /
-                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
-                  # This will apply to all pages in your Jekyll site.
+title:            Hackerz World
+tagline:          Our crime is that of curiosity
+description:      "A community that has come together to maintain and develop hacker culture."
+
 
 author:
-  name:           Karlo Espiritu
-  url:            https://twitter.com/karloespiritu
+  name:           Hackerz World
+  url:            https://twitter.com/hackerzdotworld
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -25,7 +22,4 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            2.0.1
 
-github:
-  repo:             https://github.com/karloespiritu/blackdoc
